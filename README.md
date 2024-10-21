@@ -21,3 +21,11 @@
 - [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin)：压缩 JS ；
 - [css-minimizer-webpack-plugin](https://github.com/webpack-contrib/css-minimizer-webpack-plugin)：压缩 CSS；
 
+## 基础环境的配置
+
+- package.json 
+- React -> 通过babel转化 jsx、tsx代码 
+- tsconfig配置 
+- postcss 
+- webpack配置 -> client 和 server 端的配置 -> cross-env区分环境
+
