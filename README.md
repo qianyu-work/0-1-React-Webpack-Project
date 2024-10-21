@@ -26,6 +26,6 @@
 - package.json 
 - React -> 通过babel转化 jsx、tsx代码 
 - tsconfig配置 
-- postcss 
+- postcss、tailwindcss
 - webpack配置 -> client 和 server 端的配置 -> cross-env区分环境
 
